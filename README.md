@@ -1,4 +1,4 @@
-# Machine Learning Projects
+# Business Machine Learning Projects
 
 This repository contains five end-to-end machine learning projects, each focused on a different domain and addressing various business problems. Each project includes a Jupyter notebook that walks through the entire process, from data preprocessing and feature engineering to model training, evaluation, and deployment.
 
