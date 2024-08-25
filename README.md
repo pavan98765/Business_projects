@@ -61,7 +61,7 @@ pip install pandas numpy scikit-learn matplotlib seaborn xgboost imbalanced-lear
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/machine-learning-projects.git
+   git clone https://github.com/pavan98765/Business_projects.git
    ```
 
 2. Navigate to the project directory:
